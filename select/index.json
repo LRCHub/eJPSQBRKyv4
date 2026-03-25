@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Chase the real",
+  "base_artist": "影山ヒロノブ",
+  "createdAt": "2026-03-25T16:52:16.405741Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Chase The Night Away",
+      "artist": "Keane",
+      "has_synced": true,
+      "path": "select/01_Chase_The_Night_Away_Keane.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Chase the Sun",
+      "artist": "Planet Funk",
+      "has_synced": true,
+      "path": "select/02_Chase_the_Sun_Planet_Funk.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Chase The Fire",
+      "artist": "The Fixx",
+      "has_synced": false,
+      "path": "select/03_Chase_The_Fire_The_Fixx.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Chase The Fire - Live (Canada)",
+      "artist": "The Fixx",
+      "has_synced": false,
+      "path": "select/04_Chase_The_Fire_-_Live_(Canada)_The_Fixx.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Chase - The Goodnight Mix",
+      "artist": "Propaganda",
+      "has_synced": false,
+      "path": "select/05_The_Chase_-_The_Goodnight_Mix_Propaganda.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Chase (The Goodnight mix)",
+      "artist": "Propaganda",
+      "has_synced": false,
+      "path": "select/06_The_Chase_(The_Goodnight_mix)_Propaganda.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Chase the Tear",
+      "artist": "Portishead",
+      "has_synced": false,
+      "path": "select/07_Chase_the_Tear_Portishead.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Chase the Rain",
+      "artist": "TOTO",
+      "has_synced": false,
+      "path": "select/08_Chase_the_Rain_TOTO.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Chase the Clouds Away",
+      "artist": "The Rembrandts",
+      "has_synced": true,
+      "path": "select/09_Chase_the_Clouds_Away_The_Rembrandts.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Chase the Spirit",
+      "artist": "The Koreatown Oddity feat. Jimetta Rose",
+      "has_synced": false,
+      "path": "select/10_Chase_the_Spirit_The_Koreatown_Oddity_feat._Jimetta_Rose.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Chase the Sun",
+      "artist": "Danny Avila",
+      "has_synced": true,
+      "path": "select/11_Chase_the_Sun_Danny_Avila.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Chase The Sun",
+      "artist": "Planet Funk",
+      "has_synced": true,
+      "path": "select/12_Chase_The_Sun_Planet_Funk.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Chase The Devil",
+      "artist": "Cocoon",
+      "has_synced": true,
+      "path": "select/13_Chase_The_Devil_Cocoon.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Chase the world",
+      "artist": "May'n",
+      "has_synced": true,
+      "path": "select/14_Chase_the_world_May'n.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Chase the real",
+      "artist": "影山 ヒロノブ",
+      "has_synced": false,
+      "path": "select/pl_01_Chase_the_real_影山_ヒロノブ.txt"
+    }
+  ]
+}
